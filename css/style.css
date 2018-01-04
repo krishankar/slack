@@ -1,0 +1,411 @@
+.img{
+    position: absolute;
+    width: 1330px;
+    margin: 0px auto;
+    top: 0px;
+    left: 10px;
+    overflow: hidden
+}
+.img1{
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
+
+.desc{
+    position: absolute;
+    left: 220px;
+    top: 130px;
+}
+.desc{
+    color: white;
+}
+
+.nav {
+    background: #f44336;
+    height: 55px;
+    width: 1013px;
+    float: left;
+}
+
+.nav ul {
+    color: white;
+    margin-right: 25px;
+}
+
+.nav ul li {
+    list-style: none;
+    float: left;
+    padding: 5px 25px;
+}
+.nav1 {
+    background: #d2493f;
+    height: 55px;
+    float: right;
+}
+.nav1 ul {
+    color: white;
+    margin-right: 25px;
+}
+
+.nav1 ul li {
+    list-style: none;
+    float: left;
+    padding: 5px 8px;
+}
+.nav{
+    position: absolute;
+    left: 90px;
+    top: 253px;
+}
+.nav1{
+    position: absolute;
+    right: 90px;
+    top: 253px;
+}
+.nav2{
+    position: absolute;
+    top: 320px;
+    left: 20px;
+}
+.nav2 ul li{
+    list-style: none;
+    float: left;
+    padding: 5px 30px;
+}
+.desc1{
+    float: left;
+}
+.desc1{
+    position: absolute;
+    top:400px;
+    left: 80px;
+}
+.desc1 button{
+    margin-top: 80px;
+}
+.img2{
+    position: absolute;
+    top: 400px;
+    left:300px;
+}
+.img2{
+        padding: 10px 30px;
+}
+.guid p{
+    position: absolute;
+    color: white;
+    top: 130px;
+    left: 75px;
+}
+.leftimg1{
+    position: absolute;
+    top: 10px;
+    left: 320px;
+}
+.guid1 p{
+    position: absolute;
+    color: white;
+    width: 100%;
+    top: 130px;
+    left: 380px;
+}
+.leftimg2{
+    position: absolute;
+    top: 10px;
+    left: 640px;
+}
+.guid2 p{
+    position: absolute;
+    color: white;
+    width: 50%;
+    top: 130px;
+    left: 700px;
+}
+.img3{
+    position: absolute;
+    top:700px;
+    }
+.img4{
+    position: absolute;
+    top: 90px;
+    left: 100px;
+}
+.nav3{
+    position: absolute;
+    top: 20px;
+    left: 80px;
+}
+.nav3 th{
+    text-align: left;
+    color: red;
+    font-size: 23px;
+}
+.nav3 table{
+    margin-left: 25px;
+    padding:  20px;
+}
+.nav4 tr td{
+    text-align: left;
+    color: #6272ca;
+    font-size: 20px;
+}
+.nav4{
+    position: absolute;
+    top: 70px;
+    left: -5px;
+}
+.nav4 table{
+    border-spacing: 10px;
+}
+.text h1{
+    position: absolute;
+    top: 180px;
+    left: 400px;
+    color: #bfbbbb;
+    font-size: 120px;
+}
+.img5{
+    position: absolute;
+    top: 460px;
+    left: 120px;
+}
+.nav5 ul li{
+    color: #00bcd4;
+    list-style: none;
+    float: left;
+    
+}
+.nav5{
+    position: absolute;
+    top: 550px;
+    left: 80px;
+}
+.button1{
+    position: absolute;
+    top: 180px;
+    left: 550px;
+}
+.events1{
+    position: absolute;
+    top: 1520px;
+    left: 10px;
+}
+.nav6{
+    position: absolute;
+    top: 50px;
+    left: 0px;
+}
+.nav6 table{
+    border-spacing: 10px;
+}
+.img6{
+    position: absolute;
+    top: 80px;
+    left: 165px;
+}
+.text2 h2{
+    font-size: 15px;
+}
+.text2{
+    position: absolute;
+    top: 70px;
+    left: 300px;
+}
+.text2 p{
+    position: absolute;
+    top: 30px;
+}
+.img7{
+    position: absolute;
+    top: 80px;
+    left: 580px;
+}
+
+.text3 h2{
+    font-size: 15px;
+    width: 200px;
+}
+.text3{
+    position: absolute;
+    top: 70px;
+    left: 700px;
+}
+.text3 p{
+    position: absolute;
+    top: 30px;
+}
+.text4 h2{
+    color: aqua;
+    font-size: 12px;
+}
+.text4{
+    position: absolute;
+    top: 70px;
+    left: 990px;
+}
+.text4 h3{
+    position: absolute;
+    top: 25px;
+    font-size: 10px;
+}
+.text4 h4{
+    position: absolute;
+    top: 70px;
+    font-size: 10px;
+}
+
+.img8{
+    position: absolute;
+    top: 200px;
+    left: 165px;
+}
+.text5 h2{
+    font-size: 15px;
+    width: 200px;
+}
+.text5{
+    position: absolute;
+    top: 190px;
+    left: 300px;
+}
+.text5 p{
+    position: absolute;
+    top: 30px;
+}
+.img9{
+    position: absolute;
+    top: 200px;
+    left: 580px;
+}
+
+.text6 h2{
+    font-size: 15px;
+    width: 200px;
+}
+.text6{
+    position: absolute;
+    top: 190px;
+    left: 700px;
+}
+.text6 p{
+    position: absolute;
+    top: 30px;
+}
+.text7 h2{
+    color: aqua;
+    font-size: 12px;
+}
+.text7{
+    position: absolute;
+    top: 190px;
+    left: 990px;
+}
+.text7 h3{
+    position: absolute;
+    top: 25px;
+    font-size: 10px;
+}
+.text7 h4{
+    position: absolute;
+    top: 70px;
+    font-size: 10px;
+}
+
+.img10{
+    position: absolute;
+    top: 320px;
+    left: 165px;
+}
+.text8 h2{
+    font-size: 15px;
+    width: 200px;
+}
+.text8{
+    position: absolute;
+    top: 310px;
+    left: 300px;
+}
+.text8 p{
+    position: absolute;
+    top: 25px;
+}
+.img11{
+    position: absolute;
+    top: 320px;
+    left: 580px;
+}
+
+.text9 h2{
+    font-size: 15px;
+    width: 200px;
+}
+.text9{
+    position: absolute;
+    top: 310px;
+    left: 700px;
+}
+.text9 p{
+    position: absolute;
+    top: 30px;
+}
+.text10 h2{
+    color: aqua;
+    font-size: 12px;
+}
+.text10{
+    position: absolute;
+    top: 310px;
+    left: 990px;
+}
+.text10 h3{
+    position: absolute;
+    top: 25px;
+    font-size: 10px;
+}
+.text10 h4{
+    position: absolute;
+    top: 70px;
+    font-size: 10px;
+}
+.button2{
+    position: absolute;
+    top: 550px;
+    left: 160px;
+    
+}
+.img12{
+    position: absolute;
+    top: 650px;
+}
+.nav7{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    top: 0px;
+    left: 60px;
+}
+.nav7 table{
+    border-spacing: 70px;
+}
+.nav7 p{
+    position: absolute;
+    color: darkgray;
+    font-size: 15px;
+    top: 100px;
+    left: 70px;
+}
+.nav7 b{
+    color: darkgray;
+}
+.nav7 a{
+    position: absolute;
+    color: darkgray;
+    top: 450px;
+    left: 80px;
+}
+.img13{
+    position: absolute;
+    top: 300px;
+    left: 80px;
+}
